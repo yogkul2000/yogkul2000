@@ -1,4 +1,4 @@
-![](nn.jpeg)
+n![](nn.jpeg)
 # Hey,there 👋
 
 ## My Domain
@@ -12,4 +12,4 @@ Ask me about Machine Learning, Deep Learning or Tennis 😉
 ```
 
 ## Contact me
-[Linkedin](linkedin.com/in/yogesh-kulkarni-b1572b169)
+[Linkedin](https://www.linkedin.com/in/yogesh-kulkarni-b1572b169/)
