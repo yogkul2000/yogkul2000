@@ -1,4 +1,3 @@
-![](nn.jpeg)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yogkul2000&show_icons=true&theme=dark)
 # Hey,there 👋
 
