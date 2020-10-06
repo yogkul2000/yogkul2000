@@ -10,13 +10,6 @@
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-# Hey,there  <img src="https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/wave.gif" width="40px">
-
-
-## My Domain
-```bash
-I’m currently working on Deep Learning specialising on Computer Vision problems.
-```
 
 ## Ask me
 ```
@@ -25,12 +18,13 @@ Ask me about Machine Learning, Deep Learning or Tennis 😉
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![Linkedin][1.2]][1]
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1.2]: https://raw.githubusercontent.com/yogkul20000/yogkul2000/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/yogesh-kulkarni-b1572b169/
+[1]: https://www.linkedin.com/in/yogesh-kulkarni-b1572b169/
