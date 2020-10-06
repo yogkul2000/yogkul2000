@@ -23,7 +23,7 @@ You can find me on [![Linkedin][1.2]][1]
 <!-- Icons -->
 
 
-[1.2]: https://raw.githubusercontent.com/yogkul20000/yogkul2000/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
