@@ -11,5 +11,14 @@ I’m currently working on Deep Learning specialising on Computer Vision problem
 Ask me about Machine Learning, Deep Learning or Tennis 😉
 ```
 
-## Contact me
-[Linkedin](https://www.linkedin.com/in/yogesh-kulkarni-b1572b169/)
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/yogesh-kulkarni-b1572b169/
