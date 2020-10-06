@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogkul2000&repo=convoychat" />
 </a>
 
-# Hey,there  <img src="https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/wave.gif" width="100px">
+# Hey,there  <img src="https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/wave.gif" width="50px">
 
 
 ## My Domain
