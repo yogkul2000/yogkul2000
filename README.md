@@ -1,4 +1,4 @@
-<img src = "https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/Black Technology Blog Banner.png" width = "1000px">
+<img src = "https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/Black Technology Blog Banner.png" width = "500px">
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yogkul2000&show_icons=true&theme=dark)
