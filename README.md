@@ -5,7 +5,7 @@
 
 
 
-![](https://img.shields.io/badge/Domain-Machine Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Domain-Machine_Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
