@@ -1,4 +1,4 @@
-<img src = "https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/Black Technology Blog Banner.png" width = 800px>
+<img src = "https://raw.githubusercontent.com/yogkul2000/yogkul2000/master/Black Technology Blog Banner.png" width = 850px>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yogkul2000&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogkul2000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
